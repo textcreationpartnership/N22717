@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:030024_0000_0FE3F2988D3A5E28"/>
-            <pb facs="tcp:030024_0001_0FE3F117B8305A88"/>
+            <pb facs="unknown:030024_0000_0FE3F2988D3A5E28"/>
+            <pb facs="unknown:030024_0001_0FE3F117B8305A88"/>
             <p>THE HASTY-PUDDING: A POEM, IN THREE CANTOS, BY JOEL BARLOW.</p>
             <p>WRITTEN IN GERMANY, IN SAVOY, JANUARY, 1793.</p>
             <q>Omne tulit punctum qui miscuit utile dulci.</q>
@@ -122,7 +122,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:030024_0002_0FE3F11B80CF69A8"/>
+            <pb facs="unknown:030024_0002_0FE3F11B80CF69A8"/>
             <head>THE HASTY-PUDDING, A POEM.</head>
             <div n="1" type="canto">
                <head>CANTO I.</head>
@@ -163,7 +163,7 @@
                   <l>All Bards should catch it, and all realms revere!</l>
                </lg>
                <lg>
-                  <pb n="4" facs="tcp:030024_0003_0FE3F1B40A6DA1C8"/>
+                  <pb n="4" facs="unknown:030024_0003_0FE3F1B40A6DA1C8"/>
                   <l>Assist me first with pious toil to trace,</l>
                   <l>Thro' wrecks of time thy lineage and thy race;</l>
                   <l>Declare what lovely squaw, in days of yore,</l>
@@ -206,7 +206,7 @@
                   <l>How long in vain I wander'd up and down,</l>
                   <l>Where shameless Bacchus, with his drenching hoard,</l>
                   <l>
-                     <pb n="5" facs="tcp:030024_0004_0FE3F1B9F3580330"/>Cold from his cave, usurps the morning board.</l>
+                     <pb n="5" facs="unknown:030024_0004_0FE3F1B9F3580330"/>Cold from his cave, usurps the morning board.</l>
                   <l>London is lost in smoke and steep'd in tea,</l>
                   <l>No Yankee there can lisp the name of thee;</l>
                   <l>The uncouth word, a libel on the town,</l>
@@ -253,7 +253,7 @@
                   </l>
                   <l>"With cooling milk, we make the sweet repast.</l>
                   <l>
-                     <pb n="6" facs="tcp:030024_0005_0FE3F247BA17EED8"/>"No carving to be done, no knife to grate</l>
+                     <pb n="6" facs="unknown:030024_0005_0FE3F247BA17EED8"/>"No carving to be done, no knife to grate</l>
                   <l>"The tender ear, and wound the stony plate,</l>
                   <l>"But the smooth spoon, just fitted to the lip,</l>
                   <l>"And taught with art the yielding mass to dip,</l>
@@ -297,7 +297,7 @@
                   <l>Let beans and corn their sweetest juices blend,</l>
                   <l>Let butter drench them in its yellow tide.</l>
                   <l>
-                     <pb n="7" facs="tcp:030024_0006_0FE3F24ED6D6FC20"/>And a long slice of bacon grace their side;</l>
+                     <pb n="7" facs="unknown:030024_0006_0FE3F24ED6D6FC20"/>And a long slice of bacon grace their side;</l>
                   <l>Not all the plate, how fam'd soe'er it be,</l>
                   <l>Can please my palate like a bowl of thee.</l>
                </lg>
@@ -341,7 +341,7 @@
                   <l>And health attends them from the short repast.</l>
                </lg>
                <lg>
-                  <pb n="8" facs="tcp:030024_0007_0FE3F254503F58F8"/>
+                  <pb n="8" facs="unknown:030024_0007_0FE3F254503F58F8"/>
                   <l>While the full pail rewards the milk-maid's toil,</l>
                   <l>The mother sees the morning caldron boil;</l>
                   <l>To stir the pudding next demands their care,</l>
@@ -387,7 +387,7 @@
                   <l>A frightful image, such as tom-boys bring,</l>
                   <l>When met to burn the Pope, or hang the King.</l>
                   <l>
-                     <pb n="9" facs="tcp:030024_0008_0FE3F259D3D39F60"/>Thrice in the season, through each verdant row</l>
+                     <pb n="9" facs="unknown:030024_0008_0FE3F259D3D39F60"/>Thrice in the season, through each verdant row</l>
                   <l>Wield the strong plough-share &amp; the faithful hoe.</l>
                   <l>The faithful hoe, a double task that takes,</l>
                   <l>To till the summer corn, &amp; roast the winter cakes.</l>
@@ -435,7 +435,7 @@
                      </gap>,</l>
                   <l>A virtue, rare, that almost hides their crime.</l>
                   <l>
-                     <pb n="10" facs="tcp:030024_0009_0FE3F26072193DB8"/>Then let them steal the little stores they can,</l>
+                     <pb n="10" facs="unknown:030024_0009_0FE3F26072193DB8"/>Then let them steal the little stores they can,</l>
                   <l>And fill their granaries from the toils of man;</l>
                   <l>We've one advantage where they take no part,</l>
                   <l>With all their wiles they ne'er have found the art</l>
@@ -485,7 +485,7 @@
                   <l>But when to some sweet maid a prize is cast,</l>
                </lg>
                <lg>
-                  <pb n="11" facs="tcp:030024_0010_0FE3F26625D5AB40"/>
+                  <pb n="11" facs="unknown:030024_0010_0FE3F26625D5AB40"/>
                   <l>Red as her lips, and taper as her waist,</l>
                   <l>She walks the round, and culls one favor'd beau,</l>
                   <l>Who leaps, the luscious tribute to bestow.</l>
@@ -541,7 +541,7 @@
                   <l>Ah! house her well from Winter's angry skies.</l>
                   <l>
                      <pb n="12"
-                         facs="tcp:030024_0011_0FE3F26B55828010"
+                         facs="unknown:030024_0011_0FE3F26B55828010"
                          rendition="simple:additions"/>Potatoes, Pumpkins, should her sadness cheer,</l>
                   <l>Corn from your crib, and mashes from your beer;</l>
                   <l>When spring returns she'll well acquit the loan,</l>
